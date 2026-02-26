@@ -2,7 +2,7 @@
 
 A hands-on security lab demonstrating **OWASP MCP Top 10** vulnerabilities and their fixes.
 
-Built for **Nullcon 2025** workshop on MCP (Model Context Protocol) security.
+Built for **Nullcon 2026** workshop on MCP (Model Context Protocol) security.
 
 ---
 
@@ -118,7 +118,7 @@ MIT License - Use freely for learning and training.
 
 A hands-on security lab demonstrating **OWASP MCP Top 10** vulnerabilities and their fixes.
 
-Built for **Nullcon 2025** workshop on MCP (Model Context Protocol) security.
+Built for **Nullcon 2026** workshop on MCP (Model Context Protocol) security.
 
 ---
 
