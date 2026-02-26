@@ -1,0 +1,20 @@
+services:
+  mcp-ref:
+    build:
+      context: ../app
+      dockerfile: Dockerfile
+    container_name: mcp-ref
+    ports:
+      - "7000:7000"
+    environment:
+      ES_URL: "http://elk-es:9200"
+      ES_INDEX: "soc-alerts-*"
+      MCP_ALLOWED_HOSTS: "mcp-ref attacker localhost 127.0.0.1 host.docker.internal"
+      # SECURED: No MCP_MODE env var needed - code is hardened by default
+    networks:
+      - elk
+
+networks:
+  elk:
+    external: true
+    name: nullcon-mcp-elk_default
