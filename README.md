@@ -1,6 +1,6 @@
-# MCP Security Lab - Attack & Defense
+# MCP Security Lab - Attack & Defense - Building & Breaking MCP Servers
 
-A hands-on security lab demonstrating **OWASP MCP Top 10** vulnerabilities and their fixes.
+
 ---
 
 ## 📁 Repository Structure
