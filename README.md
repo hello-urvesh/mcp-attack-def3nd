@@ -1,13 +1,6 @@
 # MCP Security Lab - Attack & Defense
 
 A hands-on security lab demonstrating **OWASP MCP Top 10** vulnerabilities and their fixes.
-
-<<<<<<< HEAD
-Built for **Nullcon 2025** workshop on MCP (Model Context Protocol) security.
-=======
-Built for **Nullcon 2026** workshop on MCP (Model Context Protocol) security.
->>>>>>> 7b8ff1d5cf36b857b105c4e160b1a4dd7dd606f3
-
 ---
 
 ## 📁 Repository Structure
