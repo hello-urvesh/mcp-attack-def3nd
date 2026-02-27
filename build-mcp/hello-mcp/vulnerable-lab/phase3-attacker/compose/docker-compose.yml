@@ -1,0 +1,18 @@
+services:
+  attacker:
+    build:
+      context: ../app
+      dockerfile: Dockerfile
+    container_name: attacker
+
+    # Hard override any image ENTRYPOINT safely (no shell parsing issues)
+    entrypoint: ["sleep"]
+    command: ["infinity"]
+
+    networks:
+      - elk
+
+networks:
+  elk:
+    external: true
+    name: nullcon-mcp-elk_default
