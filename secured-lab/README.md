@@ -468,4 +468,4 @@ This is a **lab environment**. For production, you would also need:
 
 - **SECURING.md** - Detailed vulnerable vs secure code comparisons
 - **Vulnerable Lab** - Run attacks to see what these fixes prevent
-- **OWASP MCP Top 10** - https://genai.owasp.org
+
