@@ -1,13 +1,4 @@
-"""
-Elasticsearch MCP Server - Connect AI to security logs
 
-This is what you TYPE LIVE during the workshop!
-Just 2 simple tools: search_logs and get_alerts
-
-Usage:
-  HTTP testing:     python es_mcp_server.py
-  Claude Desktop:   python es_mcp_server.py --stdio
-"""
 import sys
 import httpx
 from fastmcp import FastMCP
