@@ -6,7 +6,7 @@
     "hello-world": {
       "command": "python",
       "args": [
-        "C:\\Users\\Urvesh\\Documents\\nullcon-mcp-lab\\build-mcp\\02-hello-mcp\\server.py",
+        "C:\\<REPLACE-ME-WITH-ACTUAL-PATH\\server.py",
         "--stdio"
       ]
     }
@@ -21,7 +21,7 @@
     "elasticsearch": {
       "command": "python",
       "args": [
-        "C:\\Users\\Urvesh\\Documents\\nullcon-mcp-lab\\build-mcp\\03-es-mcp-demo\\es_mcp_server.py",
+        "C:\\<REPLACE-ME-WITH-ACTUAL-PATH\\es_mcp_server.py",
         "--stdio"
       ]
     }
