@@ -871,16 +871,4 @@ def list_context_keys(auth_token: str = "") -> dict:
 
 ---
 
-## Running in Secured Mode
 
-For a complete secured implementation, see the `secured-mcp-lab` folder which implements all these fixes.
-
-```bash
-cd C:\Users\Urvesh\Documents\nullcon-mcp-lab\secured-mcp-lab
-start-lab.bat
-```
-
-The secured lab includes:
-- Full SECURING.md with code comparisons
-- README.md with CLI + LLM examples
-- Honest security assessment
