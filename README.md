@@ -91,11 +91,5 @@ This lab is for **educational purposes only**. The vulnerable server contains in
 MIT License - Use freely for learning and training.
 
 ---
-
-## 👤 Author
-
-
-**Urvesh Thakkar** - NullCon 2026
-=======
-A hands-on security lab demonstrating **OWASP MCP Top 10** vulnerabilities and their fixes.
+A hands-on security lab demonstrating **MCP vulnerabilities**  and their fixes.
 Built for **Nullcon 2026** workshop on MCP security.
