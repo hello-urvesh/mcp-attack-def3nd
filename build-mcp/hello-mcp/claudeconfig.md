@@ -6,10 +6,15 @@
     "hello-world": {
       "command": "python",
       "args": [
-        "C:\\<REPLACE-ME-WITH-ACTUAL-PATH\\server.py",
+        "C:\\Users\\Urvesh\\Documents\\nullcon-mcp-lab\\build-mcp\\hello-mcp\\server.py",
         "--stdio"
       ]
     }
+  },
+  "preferences": {
+    "coworkWebSearchEnabled": true,
+    "coworkScheduledTasksEnabled": true,
+    "sidebarMode": "chat"
   }
 }
 ``` 
